@@ -1,5 +1,5 @@
 # CS250-Group1
-Hello World
+Unstable Bluff Detection System
 
 
 Group 1 Members:
