@@ -10,3 +10,4 @@ Jared Pueblo
 https://docs.google.com/document/d/1AtohM-Jekgx4xzVNAEPfSxAbUq3erT662tMl3U23aAo/edit?usp=sharing
 
 #Assignment 2 Commit (Ashley)
+#Assignment 2 Commit (Jared)
