@@ -8,6 +8,6 @@ Ashley Olson
 Jared Pueblo
 
 
-
+https://docs.google.com/document/d/1jdkiPQmutBlyBjTcQ0hGoRt7U9TeWvMSKQSN21zXD68/edit?usp=sharing
 #Assignment 2 Commit (Ashley)
 #Assignment 2 Commit (Jared)
